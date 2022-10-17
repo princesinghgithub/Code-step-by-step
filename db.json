@@ -1,0 +1,42 @@
+{
+  "restaurents": [
+    {
+      "id": 1,
+      "name": "KFC RESTORENT",
+      "address": "noida sec 50",
+      "email": "test@text.com"
+    },
+    {
+      "name": "chayos",
+      "email": "chayos@chayos.com",
+      "address": "Delhi",
+      "id": 2
+    },
+    {
+      "name": "CSB Indore",
+      "email": "csb@csb.com",
+      "address": "indore mp",
+      "id": 3
+    },
+    {
+      "name": "Shiva Restaurent Rewa",
+      "email": "shiva@shiva.com",
+      "address": "Maharastra",
+      "id": 5
+    }
+  ],
+  "user": [
+    {
+      "name": "prince",
+      "email": "prince@prince.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Geeta",
+      "email": "gita@gita.com",
+      "password": "1234",
+      "id": 2
+    }
+  ]
+}
